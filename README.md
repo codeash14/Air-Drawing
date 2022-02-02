@@ -16,16 +16,16 @@
 
  1. Color Detection Window 
 
-![](https://github.com/@codeash14/Air-Drawing#Color%20detection%20window.png)
+![](https://github.com/codeash14/Air-Drawing/blob/main/Color%20detection%20window.png)
 
 2. Mask Window
 
-![](https://github.com/@codeash14/Air-Drawing#Mask%20window.png)
+![](https://github.com/codeash14/Air-Drawing/blob/main/Mask%20window.png)
 
 3. Paint Window
 
-![](https://github.com/@codeash14/Air-Drawing#Paint%20window.png)
+![](https://github.com/codeash14/Air-Drawing/blob/main/Paint%20window.png)
 
 4. Tracking Window
 
-![](https://github.com/@codeash14/Air-Drawing#Tracking%20window.png)
+![](https://github.com/codeash14/Air-Drawing/blob/main/Tracking%20window.png)
