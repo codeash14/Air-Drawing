@@ -14,4 +14,18 @@
 
 ## Snapshots
 
- 
+ 1. Color Detection Window 
+
+![](https://replit.com/@codeash14/Air-Drawing#Color%20detection%20window.png)
+
+2. Mask Window
+
+![](https://replit.com/@codeash14/Air-Drawing#Mask%20window.png)
+
+3. Paint Window
+
+![](https://replit.com/@codeash14/Air-Drawing#Paint%20window.png)
+
+4. Tracking Window
+
+![](https://replit.com/@codeash14/Air-Drawing#Tracking%20window.png)
